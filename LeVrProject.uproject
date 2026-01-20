@@ -45,6 +45,10 @@
 		{
 			"Name": "ActorPalette",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
